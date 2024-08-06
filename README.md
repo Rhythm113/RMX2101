@@ -1,6 +1,6 @@
 # TWRP Tree for Realme C17 (RMX2101)
 
-Current Status : Under testing 
+Current Status : Project closed
 
 
 # Bugs :
